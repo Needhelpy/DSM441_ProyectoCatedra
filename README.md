@@ -7,7 +7,9 @@ MO223025
 TG230977
 MF232232
 
-# Link de manuales
+# Link de Manual de Usuario
+
+# Link de Manual de Tecnico
 
 # Link de Trello
 https://trello.com/b/dLxbbuIy/dsm-board
